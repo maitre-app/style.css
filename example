@@ -84,9 +84,15 @@
   background: none !important;
 }
 
-.mtr-rewards-list li {
+.mtr-rewards-list {
 	width: 100%;
 	max-width: 100% !important;
 	display: block;
 	flex: auto;
+}
+
+.mtr-rewards-referrals{
+	width: 100%;
+	max-width: 100% !important;
+	margin-top: 20px;
 }
